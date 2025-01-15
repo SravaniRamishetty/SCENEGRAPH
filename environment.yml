@@ -1,0 +1,6 @@
+name: scenegraph
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/sravani/miniconda3/envs/scenegraph
