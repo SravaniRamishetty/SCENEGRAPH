@@ -2,6 +2,7 @@
 logs/
 stores/
 data/
+weights/
 
 # Package files
 venv/
